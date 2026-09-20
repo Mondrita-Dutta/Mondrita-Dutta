@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi 👋
 I'm passionate about technology, problem-solving, teamwork, and continuous learning.<br>🎓 Currently building my skills in programming, DSA, web development, data analysis, and graphic design, combining logic with aesthetics while exploring opportunities to apply them in real-world projects.<br>🎓 I enjoy exploring new technologies and continuously improving my technical and communication skills. Always eager to collaborate, innovate, and learn new skills and ideas that help me grow both personally and professionally.<br><br>I believe innovation comes from persistence, teamwork, and a hunger to learn something new every day. ✨
 
 
